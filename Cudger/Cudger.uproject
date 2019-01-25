@@ -72,10 +72,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "GoogleCloudMessaging",
-			"Enabled": false
-		},
-		{
 			"Name": "KDevelopSourceCodeAccess",
 			"Enabled": false
 		},
@@ -152,6 +148,10 @@
 		{
 			"Name": "VisualStudioSourceCodeAccess",
 			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
 		}
 	]
 }
