@@ -150,11 +150,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystemNull",
-			"Enabled": false
+			"Name": "OnlineSubsystemGoogle",
+			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemGoogle",
+			"Name": "OnlineFramework",
 			"Enabled": true
 		}
 	]
